@@ -1,0 +1,8 @@
+public class HoldMethod implements PaymentMethod {
+//    @Override
+//    public void pay(PayCheck pc) {
+//        //Disposition : 기질,성향,배치,배열
+//        pc.setField("Disposition", "Hold");
+//    }
+
+}
